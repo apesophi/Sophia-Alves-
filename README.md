@@ -1,86 +1,56 @@
 
 <div align="center">
 
-<img src="./assets/suminagashi-waves.gif" width="100%" alt="Animated Suminagashi waves"/>
+<img src="assets/suminagashi-waves.gif" width="100%" alt="Suminagashi animated waves"/>
 
 <br/>
 
 # S O P H I A  A L V E S
 
-### COMPUTER SCIENCE STUDENT · DEVELOPER
+**Computer Science Student · Developer**
 
 *Turning ideas into digital experiences.*
 
 <br/>
 
-[ LinkedIn ](https://linkedin.com) · [ GitHub ](https://github.com)
+[LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN) ·
+[Email](mailto:SEU-EMAIL) ·
+[Portfolio](SEU-PORTFOLIO)
 
 </div>
 
 ---
 
-<div align="center">
+### ABOUT
 
-### ✦ ABOUT ME
+I'm a Computer Science student interested in technology, software development and thoughtful digital experiences.
 
-</div>
+I enjoy learning by building projects that bring together functionality, creativity and design.
 
-I'm a Computer Science student passionate about technology, creativity and software development.
-
-I enjoy transforming ideas into digital experiences, exploring new technologies and building projects that combine functionality and design.
-
-```javascript
-const sophia = {
-  education: "Computer Science",
-  focus: ["Web Development", "Software Engineering"],
-  interests: ["Technology", "Design", "Innovation"],
-  philosophy: "Learning by building."
-};
-```
-
----
+### TECHNOLOGIES
 
 <div align="center">
-
-### ✦ TECHNOLOGIES & TOOLS
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,react,git,github,vscode,figma&theme=dark" />
 
 </div>
 
----
-
-<div align="center">
-
-### ✦ FEATURED PROJECTS
-
-</div>
+### SELECTED PROJECTS
 
 | Project | Description |
-|---|---|
-| [Jornada Dev](#) | Interactive educational programming experience |
-| [Portfolio](#) | Personal portfolio and creative projects |
-| [Web Projects](#) | Experiments in web development |
+|:--|:--|
+| [Jornada Dev](LINK-DO-PROJETO) | Interactive educational programming experience. |
+| [Portfolio](LINK-DO-PORTFOLIO) | My personal portfolio and creative work. |
+| [Web Projects](LINK-DOS-PROJETOS) | Experiments and applications built while learning. |
+
+### CURRENTLY EXPLORING
+
+`Front-end Development` · `JavaScript` · `React` · `Software Engineering` · `UI/UX`
 
 ---
 
 <div align="center">
 
-### ✦ CURRENTLY LEARNING
-
-Front-end Development · JavaScript · React
-
-Software Engineering · UI/UX Design
-
-<br/>
-
-### ✦ CONNECT WITH ME
-
-[LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
-
-<br/>
-
-*Always learning. Always creating.*
+*Always learning, always creating.*
 
 </div>
-
