@@ -1,11 +1,3 @@
-# Sophia-Alves-
- Science Student · Front-end Developer
- 
-
-<!--
-  SOPHIA ALVES | GITHUB PROFILE
-  Minimalist Developer Profile
--->
 
 <div align="center">
 
